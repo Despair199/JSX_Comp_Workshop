@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  display: flex ;
+  justify-content: center;
+  background-image:
+  url(
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vrQy_do6Ky5PHItlN3asACxdBTGXE_Z9tg&usqp=CAU");
 }
 
 .App-logo {
@@ -36,3 +41,5 @@
     transform: rotate(360deg);
   }
 }
+
+.style {background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vrQy_do6Ky5PHItlN3asACxdBTGXE_Z9tg&usqp=CAU"}
